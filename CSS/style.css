@@ -1,0 +1,53 @@
+body{
+	background-color:pink;
+
+}
+
+.container{
+	width:60%;
+	height:600px;
+	margin: 0 auto;
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+	border:2px solid;
+}
+
+#quiz h1{
+	background-color: blue;
+	padding:2px 2px 2px 2px;
+	text-align:center;
+
+}
+#score{
+	text-align: center;
+}
+.para{
+	margin-left: 5%;
+	font-size: 24px;
+}
+
+.buttons{
+	margin-top: 20px;
+	margin-left: 18%;
+	
+	margin-bottom: 20px;
+}
+#btn1,#btn2,#btn3,#btn0{
+
+background-color: orange;
+width:200px;
+font-size: 20px;
+border:1px solid;
+border-radius: 20px;
+margin: 10px 40px 10px 40px;
+padding: 25px 25px;
+}
+#btn1:hover,#btn2:hover,#btn3:hover,#btn0:hover {
+    background-color:#DAF7A6; /* Green */
+   
+}
+
+.niche{
+	text-align: center;
+}
